@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mark-fields
-- 👀 I’m interested in cloud-native technologies, music and whole ton of other stuff...
+- 👀 I’m interested in cloud-native technologies, music and a whole ton of other stuff...
 - 🌱 I’m currently learning all things AWS to prep for the Architects Associate certification
 - 💞️ I’m looking to collaborate on anything related to quality engineering.
 - 📫 You can reach me via email - [fields.mark.r@gmail.com]
